@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Hozi's learning project.iml" filepath="$PROJECT_DIR$/.idea/Hozi's learning project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Hozi-2/.idea/Hozi-2.iml" filepath="$PROJECT_DIR$/../Hozi-2/.idea/Hozi-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../My-codebank/.idea/My-codebank.iml" filepath="$PROJECT_DIR$/../My-codebank/.idea/My-codebank.iml" />
     </modules>
   </component>
 </project>
